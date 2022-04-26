@@ -133,7 +133,7 @@ body {
   }
 }
 .blog-big__title {
-  font-size: 115px;
+  font-size: 95px;
   font-family: "Space Grotesk", sans-serif;
   font-weight: 700;
   letter-spacing: -5px;
@@ -142,7 +142,7 @@ body {
 }
 @media screen and (max-width: 1400px) {
   .blog-big__title {
-    font-size: 120px;
+    font-size: 95px;
   }
 }
 @media screen and (max-width: 1260px) {
